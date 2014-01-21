@@ -10,7 +10,7 @@
 
 
 
-int _tmain(int argc,int *argv[])
+int _tmain(int argc,TCHAR*argv[])
 {
 
 
