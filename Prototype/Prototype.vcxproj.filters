@@ -18,12 +18,26 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="EnemyObject.cpp">
+=======
+    <ClCompile Include="Collider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector2.cpp">
+>>>>>>> b7cd737f57d90e7cf22ebc249b6d3c64317f2796
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ClInclude Include="EnemyObject.h">
+=======
+    <ClInclude Include="Collider.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2.h">
+>>>>>>> b7cd737f57d90e7cf22ebc249b6d3c64317f2796
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

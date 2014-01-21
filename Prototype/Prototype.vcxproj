@@ -86,8 +86,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ClCompile Include="EnemyObject.cpp" />
+=======
+    <ClCompile Include="Collider.cpp" />
+>>>>>>> b7cd737f57d90e7cf22ebc249b6d3c64317f2796
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Vector2.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Collider.h" />
+    <ClInclude Include="Vector2.h" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EnemyObject.h" />
